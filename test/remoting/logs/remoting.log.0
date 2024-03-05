@@ -1,0 +1,27 @@
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: testD
+Mar 05, 2024 10:24:30 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3160.vd76b_9ddd10cc
+Mar 05, 2024 10:24:30 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/administrator/test/test/remoting as a remoting work directory
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://192.168.13.201:8080/]
+Mar 05, 2024 10:24:30 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: 192.168.13.201
+  Agent port:    37819
+  Identity:      94:be:3f:8b:f5:ba:1f:04:ec:3b:02:f5:f3:67:97:70
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to 192.168.13.201:37819
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Mar 05, 2024 10:24:30 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 94:be:3f:8b:f5:ba:1f:04:ec:3b:02:f5:f3:67:97:70
+Mar 05, 2024 10:24:30 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
